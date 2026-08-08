@@ -57,13 +57,13 @@ export function Navbar() {
             </ul>
             <div className="flex items-center gap-3 ml-4 border-l border-border/30 pl-6">
               <Button variant={isScrolled ? "outline" : "secondary"} size="sm" className="gap-2 rounded-full" asChild>
-                <a href="https://wa.me/919876543210" target="_blank" rel="noreferrer">
+                <a href="https://wa.me/919552322288" target="_blank" rel="noreferrer">
                   <MessageCircle className="w-4 h-4" />
                   <span>WhatsApp</span>
                 </a>
               </Button>
               <Button size="sm" className="gap-2 rounded-full" asChild>
-                <a href="tel:+919876543210">
+                <a href="tel:+919552322288">
                   <Phone className="w-4 h-4" />
                   <span>Call Now</span>
                 </a>
@@ -101,7 +101,7 @@ export function Navbar() {
             <hr className="border-border my-2" />
             <div className="flex flex-col gap-3">
               <Button variant="outline" className="w-full justify-center gap-2" asChild>
-                <a href="https://wa.me/919876543210" target="_blank" rel="noreferrer">
+                <a href="https://wa.me/919552322288" target="_blank" rel="noreferrer">
                   <MessageCircle className="w-4 h-4" />
                   <span>WhatsApp Us</span>
                 </a>
