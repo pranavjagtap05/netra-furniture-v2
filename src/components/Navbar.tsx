@@ -107,7 +107,7 @@ export function Navbar() {
                 </a>
               </Button>
               <Button className="w-full justify-center gap-2" asChild>
-                <a href="tel:+919876543210">
+                <a href="tel:+919552322288">
                   <Phone className="w-4 h-4" />
                   <span>Call Now</span>
                 </a>
