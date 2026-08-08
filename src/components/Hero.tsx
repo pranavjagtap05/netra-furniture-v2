@@ -27,7 +27,7 @@ export function Hero() {
             Uruli Kanchan's Premier Destination
           </span>
           <h1 className="font-serif text-4xl md:text-6xl lg:text-7xl font-medium text-white leading-tight mb-6">
-            Premium Furniture for <span className="text-primary/90 italic">Every Home</span>
+            Premium Furniture for <span className="text-white italic font-medium">Every Home</span>
           </h1>
           <p className="text-lg md:text-xl text-white/80 font-light mb-10 max-w-2xl mx-auto leading-relaxed">
             Discover our curated collection of Sofas, Beds, Dining Sets, Wardrobes, Office Furniture and more. Crafted with warmth and built to last.
@@ -41,7 +41,7 @@ export function Hero() {
               </a>
             </Button>
             <Button size="lg" variant="outline" className="w-full sm:w-auto h-14 px-8 text-base rounded-full bg-white/10 hover:bg-white/20 text-white border-white/30 backdrop-blur-sm gap-2" asChild>
-              <a href="tel:+919552322288">
+              <a href="tel:+91 95523 22288">
                 <Phone className="w-4 h-4" />
                 Call +91 95523 22288
               </a>
